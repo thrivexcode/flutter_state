@@ -29,18 +29,6 @@ Proyek ini cocok untuk:
 
 ---
 
-## 🎥 Live Preview
-
-**Lihat langsung perbedaan perilaku antara Stateful dan Stateless Widget:**
-
-<div align="center">
-  <a href="https://res.cloudinary.com/dhhm853e7/video/upload/v1751533393/flutter_state_widgets_demo.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/🎬%20Live%20Demo-Watch%20Now-blue?style=for-the-badge" alt="Live Demo Button"/>
-  </a>
-</div>
-
----
-
 ## ✨ Features
 
 - 🔁 Interaksi counter: Stateful akan merespons, Stateless tidak
