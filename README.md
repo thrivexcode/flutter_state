@@ -41,13 +41,20 @@ Proyek ini cocok untuk:
 
 ## 📂 Project Structure
 
+```bash
 lib/
 ├── main.dart
-├── widgets/
-│ ├── stateless_counter.dart
-│ └── stateful_counter.dart
-└── shared/
-└── custom_button.dart
+├── presentation/
+│   ├── screens/
+│   │   └── feed_screen.dart
+│   └── widgets/
+│       ├── story_stateful/
+│       ├── story_stateless/
+│       └── post_item.dart
+└── core/
+    └── assets/
+        ├── assets.gen.dart
+        └── fonts.gen.dart
 
 ## 🛠 Getting Started
 
