@@ -6,7 +6,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-App-blue.svg?&logo=Flutter&logoColor=white)](https://flutter.dev)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thrivexcode/)
 
 </div>
 
